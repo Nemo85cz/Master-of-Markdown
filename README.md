@@ -1,7 +1,7 @@
 # Master-of-Markdown
 
 # 🎓 Příručka přežití zkouškového období
-![Student](pexels-student.jpg)
+![Student](images/pexels-student.jpg)
 
 > „Zkouškové není sprint. Je to maraton, ve kterém nevíš, kde je cílová páska.“
 
