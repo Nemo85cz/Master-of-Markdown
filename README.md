@@ -28,7 +28,7 @@ Doporučené kroky:
 | Pomůcka | Využití | Důležitost |
 |---|---|---|
 | Notebook | Studium a poznámky | Vysoká |
-| Káva | Motivace | Střední |
+| Káva | Motivace | Potřebná k životu |
 | Sešit | Zapisování poznámek | Vysoká |
 | Sluchátka | Lepší soustředění | Vysoká |
 | Spánek | Regenerace mozku | Kritická |
@@ -126,6 +126,7 @@ Moje tři nejdůležitější pravidla:
 
 ---
 
-**Autor:** Student  
+**Autor:** Nemo85cz  
 **Projekt:** Markdown README  
 **Rok:** 2026
+**Vylepšeno pomocí umělé inteligence ChatGPT**
